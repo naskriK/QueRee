@@ -48,13 +48,13 @@ body {
 .qr-card-title {
   margin-top: 1.728rem;
   line-height: 1.2;
-  color: hsl(218, 44%, 22%);
+  color: hsl(217, 45%, 22%);
 }
 
 .qr-card-description {
   margin-top: 1.2rem;
   line-height: 1.5;
-  color: hsl(220, 15%, 55%);
+  color: #524c63;
 }
 
 @keyframes flyInFromLeft {
